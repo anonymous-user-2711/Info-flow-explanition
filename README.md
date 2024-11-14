@@ -79,5 +79,5 @@ To get started with the **Vision Language RAG** platform, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/vision-language-rag.git
+git clone https://github.com/anonymous-user-2711/Info-flow-explanition.git
 cd vision-language-rag
