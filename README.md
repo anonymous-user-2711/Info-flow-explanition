@@ -7,7 +7,7 @@ The **Vision Language Retrieval Augmented Generation** system is an AI-based edu
 The platform's impact on student engagement and comprehension has been evaluated in initial deployments, showcasing its potential to transform how educational content is taught and learned, particularly within graduate programs.
 
 ## Figure 1. Process Flow Architecture Diagram
-![Process Flow](./assets/MULTI-RAG-DIAGRAM.png) <!-- Replace with actual diagram image -->
+![Process Flow](./MULTI-RAG-DIAGRAM1.png) <!-- Replace with actual diagram image -->
 
 ### Detailed Explanation of the Architecture Diagram
 
